@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Veneta 👋
 
-<!--
-**venetatjenxia/venetatjenxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineering student who's probably either studying, volunteering, or learning a new language — sometimes all three at once.
 
-Here are some ideas to get you started:
+- ☁️ Studying **BSc (Hons) Cloud Engineering** @ Asia Pacific University (APU)
+- 🗣️ Speak **Indonesian, Malay, English**, and **Mandarin (HSK 4)** — currently learning Spanish, Korean, French & Japanese
+- 🙋 Regularly volunteering — AWS CendekiAwan, AutoPilot Asia Hackathon, AI Run Week, beach cleanups & more
+- 🎤 Public speaker, MC host, and storyteller in my free time
+- 🛠️ Building skills in **Python, SQL**, and cloud fundamentals
+- 🎬 Also into video editing & design (Canva, CapCut)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Volunteer highlights
+- **AWS CendekiAwan** — PR team, sponsor outreach
+- **AutoPilot Asia Hackathon** — social media promo, promo video, day-of event support
+- **AI Run Week (AIC)** — design team support
+- **Campus Hope Health Screening** — event coordination
+- **Beach Cleanup** — community environmental volunteering
+
+### Languages
+`Indonesian (Native)` · `Malay (Fluent)` · `English (Advanced)` · `Mandarin (HSK 4)` · `Spanish (A2)` · `Korean` · `French` · `Japanese`
+
+### Currently exploring
+`Cloud Engineering` · `Python` · `SQL` · `New languages` · `Community events`
+
+---
+
+<sub>Always down to help out, host something, or learn a new language badly for a while before getting good at it.</sub>
