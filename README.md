@@ -26,4 +26,16 @@ Cloud Engineering student who's probably either studying, volunteering, or learn
 
 ---
 
+### 🎨 Design & Video Work
+
+<p float="left">
+  <img src="assets/APAC Dark Template.jpg" width="250" />
+  <img src="assets/APAC White Template.jpg" width="250" />
+  <img src="assets/CYBER BULLYING Poster.png" width="250" />
+  <img src="assets/SAVE THE EARTH Poster.png" width="250" />
+</p>
+
+
+---
+
 <sub>Always down to help out, host something, or learn a new language badly for a while before getting good at it.</sub>
