@@ -26,6 +26,11 @@ Cloud Engineering student who's probably either studying, volunteering, or learn
 
 ---
 
+### 📂 Projects
+- 🐍 [Gym Management System (Python)](https://github.com/venetatjenxia/gym-management-system) — command-line gym management system handling members, trainers, classes, bookings & attendance
+
+---
+
 ### 🎨 Design & Video Work
 
 <p float="left">
